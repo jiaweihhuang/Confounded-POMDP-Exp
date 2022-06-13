@@ -21,6 +21,8 @@ estimator, a marginalized importance sampling estimator, and a doubly-robust est
 general function approximation and is thus applicable to settings with continuous or large observation/state spaces.
 The nonasymptotic and asymptotic properties of the proposed estimators are investigated in detail.
 
+<img align="center" src="POMDP.png" alt="drawing" width="700">
+
 If you find it helpful, please cite as follow:
 ```
 @misc{shi2021minimax,
