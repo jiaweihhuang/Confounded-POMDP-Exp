@@ -1,12 +1,14 @@
 # Introduction
-Code for Paper 
 
+This repository is the official implementation of the paper 
 
 > A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes.
 >
 > Chengchun Shi\*, Masatoshi Uehara\*, Jiawei Huang, Nan Jiang. ICML 2022. (*: equal contribution).
 >
 > [https://arxiv.org/abs/2111.06784](https://arxiv.org/abs/2111.06784).
+
+# Summary of the paper
 
 We consider off-policy evaluation (OPE) in Partially Observable Markov Decision Processes (POMDPs),
 where the evaluation policy depends only on observable variables and the behavior policy depends on unobservable
