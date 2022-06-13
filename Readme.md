@@ -24,6 +24,12 @@ The nonasymptotic and asymptotic properties of the proposed estimators are inves
 ## Setting
 <img align="center" src="POMDP.png" alt="drawing" width="700">
 
+## Results
+<img align="center" src="CartPole_KernelFuncAppx_Bias.png" alt="drawing" width="170">
+<img align="center" src="CartPole_KernelFuncAppx_MSE.png" alt="drawing" width="170">
+<img align="center" src="CartPole_Mask_Bias.png" alt="drawing" width="170">
+<img align="center" src="CartPole_Mask_MSE.png" alt="drawing" width="170">
+
 If you find it helpful, please cite as follow:
 ```
 @misc{shi2021minimax,
